@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbool_expressions-1.10-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jbool_expressions-1.10-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
